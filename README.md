@@ -8,6 +8,7 @@ I'm not sure what else to write here but yea i hope you enjoy? <3
 ## Quick Links
 
 [Falling Snow](https://undeadalex.github.io/My-p5-Adventure/01-Snowfall/index.html)
+<embed type="text/html" src="../01-Snowfall/index.html" width="640" height="360">
 
 [Random Snowflake Generator](https://undeadalex.github.io/My-p5-Adventure/02-SnowflakeGen/index.html)
 
